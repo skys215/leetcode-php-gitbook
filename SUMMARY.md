@@ -66,4 +66,5 @@
 * [D63 917. Reverse Only Letters](d63-917.-reverse-only-letters.md)
 * [D64 292. Nim Game](d64-292.-nim-game.md)
 * [D65 892. Surface Area of 3D Shapes](d65-892.-surface-area-of-3d-shapes.md)
+* [D66 896. Monotonic Array](d66-896.-monotonic-array.md)
 
