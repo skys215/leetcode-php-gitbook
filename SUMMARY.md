@@ -68,4 +68,5 @@
 * [D65 892. Surface Area of 3D Shapes](d65-892.-surface-area-of-3d-shapes.md)
 * [D66 896. Monotonic Array](d66-896.-monotonic-array.md)
 * [D67 485. Max Consecutive Ones](d67-485.-max-consecutive-ones.md)
+* [D68 283. Move Zeroes](d68-283.-move-zeroes.md)
 
