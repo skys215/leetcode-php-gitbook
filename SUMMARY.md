@@ -69,4 +69,5 @@
 * [D66 896. Monotonic Array](d66-896.-monotonic-array.md)
 * [D67 485. Max Consecutive Ones](d67-485.-max-consecutive-ones.md)
 * [D68 283. Move Zeroes](d68-283.-move-zeroes.md)
+* [D69 258. Add Digits](d69-258.-add-digits.md)
 
