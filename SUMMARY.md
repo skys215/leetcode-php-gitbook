@@ -71,4 +71,5 @@
 * [D68 283. Move Zeroes](d68-283.-move-zeroes.md)
 * [D69 258. Add Digits](d69-258.-add-digits.md)
 * [D70 784. Letter Case Permutation](d70-784.-letter-case-permutation.md)
+* [D71 788. Rotated Digits](d71-788.-rotated-digits.md)
 
