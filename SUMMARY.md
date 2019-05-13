@@ -72,4 +72,10 @@
 * [D69 258. Add Digits](d69-258.-add-digits.md)
 * [D70 784. Letter Case Permutation](d70-784.-letter-case-permutation.md)
 * [D71 788. Rotated Digits](d71-788.-rotated-digits.md)
+* [D72 349. Intersection of Two Arrays](d72-349.-intersection-of-two-arrays.md)
+* [D73 389. Find the Difference](d73-389.-find-the-difference.md)
+* [D74 999. Available Captures for Rook](d74-999.-available-captures-for-rook.md)
+* [D75 706. Design HashMap](d75-706.-design-hashmap.md)
+* [D76 993. Cousins in Binary Tree](d76-993.-cousins-in-binary-tree.md)
+* [D77 812. Largest Triangle Area](d77-812.-largest-triangle-area.md)
 
