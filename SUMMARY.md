@@ -78,4 +78,5 @@
 * [D75 706. Design HashMap](d75-706.-design-hashmap.md)
 * [D76 993. Cousins in Binary Tree](d76-993.-cousins-in-binary-tree.md)
 * [D77 812. Largest Triangle Area](d77-812.-largest-triangle-area.md)
+* [D78 206. Reverse Linked List](d78-206.-reverse-linked-list.md)
 
