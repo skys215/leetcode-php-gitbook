@@ -80,4 +80,6 @@
 * [D77 812. Largest Triangle Area](d77-812.-largest-triangle-area.md)
 * [D78 206. Reverse Linked List](d78-206.-reverse-linked-list.md)
 * [D79 448. Find All Numbers Disappeared in an Array](d79-448.-find-all-numbers-disappeared-in-an-array.md)
+* [D80 182. Duplicate Emails](d80-182.-duplicate-emails.md)
+* [D81 520. Detect Capital](d81-520.-detect-capital.md)
 
