@@ -82,4 +82,6 @@
 * [D79 448. Find All Numbers Disappeared in an Array](d79-448.-find-all-numbers-disappeared-in-an-array.md)
 * [D80 182. Duplicate Emails](d80-182.-duplicate-emails.md)
 * [D81 520. Detect Capital](d81-520.-detect-capital.md)
+* [D82 13. Roman to Integer](d82-13.-roman-to-integer.md)
+* [D83 169. Majority Element](d83-169.-majority-element.md)
 
