@@ -86,4 +86,5 @@
 * [D83 169. Majority Element](d83-169.-majority-element.md)
 * [D84 371. Sum of Two Integers](d84-371.-sum-of-two-integers.md)
 * [D85 242. Valid Anagram](d85-242.-valid-anagram.md)
+* [D86 748. Shortest Completing Word](d86-748.-shortest-completing-word.md)
 
