@@ -89,4 +89,5 @@
 * [D86 748. Shortest Completing Word](d86-748.-shortest-completing-word.md)
 * [D87 705. Design HashSet](d87-705.-design-hashset.md)
 * [D88 696. Count Binary Substrings](untitled.md)
+* [D89 653. Two Sum IV - Input is a BST](d89-653.-two-sum-iv-input-is-a-bst.md)
 
