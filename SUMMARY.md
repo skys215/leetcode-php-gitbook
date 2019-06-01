@@ -96,4 +96,5 @@
 * [D93 171. Excel Sheet Column Number](d93-171.-excel-sheet-column-number.md)
 * [D94 733. Flood Fill](d94-733.-flood-fill.md)
 * [D95 108. Convert Sorted Array to Binary Search Tree](d95-108.-convert-sorted-array-to-binary-search-tree.md)
+* [D96 530. Minimum Absolute Difference in BST](d96-530.-minimum-absolute-difference-in-bst.md)
 
