@@ -98,4 +98,5 @@
 * [D95 108. Convert Sorted Array to Binary Search Tree](d95-108.-convert-sorted-array-to-binary-search-tree.md)
 * [D96 530. Minimum Absolute Difference in BST](d96-530.-minimum-absolute-difference-in-bst.md)
 * [D97 783. Minimum Distance Between BST Nodes](d97-783.-minimum-distance-between-bst-nodes.md)
+* [D98 697. Degree of an Array](d98-697.-degree-of-an-array.md)
 
