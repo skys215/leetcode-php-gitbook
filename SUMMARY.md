@@ -100,4 +100,5 @@
 * [D97 783. Minimum Distance Between BST Nodes](d97-783.-minimum-distance-between-bst-nodes.md)
 * [D98 697. Degree of an Array](d98-697.-degree-of-an-array.md)
 * [D99 860. Lemonade Change](d99-860.-lemonade-change.md)
+* [D100 387. First Unique Character in a String](d100-387.-first-unique-character-in-a-string.md)
 
