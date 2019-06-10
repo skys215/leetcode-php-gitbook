@@ -105,4 +105,5 @@
 * [D102 383. Ransom Note](d102-383.-ransom-note.md)
 * [D103 447. Number of Boomerangs](d103-447.-number-of-boomerangs.md)
 * [D104 167. Two Sum II - Input array is sorted](d104-167.-two-sum-ii-input-array-is-sorted.md)
+* [D105 1005. Maximize Sum Of Array After K Negations](d105-1005.-maximize-sum-of-array-after-k-negations.md)
 
