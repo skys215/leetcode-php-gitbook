@@ -108,4 +108,5 @@
 * [D105 1005. Maximize Sum Of Array After K Negations](d105-1005.-maximize-sum-of-array-after-k-negations.md)
 * [D106 997. Find the Town Judge](d106-997.-find-the-town-judge.md)
 * [D108 453. Minimum Moves to Equal Array Elements](d108-453.-minimum-moves-to-equal-array-elements.md)
+* [D109 404. Sum of Left Leaves](d109-404.-sum-of-left-leaves.md)
 
