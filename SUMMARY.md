@@ -111,4 +111,7 @@
 * [D108 404. Sum of Left Leaves](d109-404.-sum-of-left-leaves.md)
 * [D109 122. Best Time to Buy and Sell Stock II](d109-122.-best-time-to-buy-and-sell-stock-ii.md)
 * [D110 796. Rotate String](d110-796.-rotate-string.md)
+* [D111 492. Construct the Rectangle](d111-492.-construct-the-rectangle.md)
+* [D112 181. Employees Earning More Than Their Managers](d112-181.-employees-earning-more-than-their-managers.md)
+* [D113 598. Range Addition II](d113-598.-range-addition-ii.md)
 
