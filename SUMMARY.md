@@ -114,4 +114,5 @@
 * [D111 492. Construct the Rectangle](d111-492.-construct-the-rectangle.md)
 * [D112 181. Employees Earning More Than Their Managers](d112-181.-employees-earning-more-than-their-managers.md)
 * [D113 598. Range Addition II](d113-598.-range-addition-ii.md)
+* [D114 268. Missing Number](d114-268.-missing-number.md)
 
