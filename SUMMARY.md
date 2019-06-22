@@ -115,4 +115,5 @@
 * [D112 181. Employees Earning More Than Their Managers](d112-181.-employees-earning-more-than-their-managers.md)
 * [D113 598. Range Addition II](d113-598.-range-addition-ii.md)
 * [D114 268. Missing Number](d114-268.-missing-number.md)
+* [D115 506. Relative Ranks](d115-506.-relative-ranks.md)
 
