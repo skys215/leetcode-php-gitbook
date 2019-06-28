@@ -118,4 +118,7 @@
 * [D115 506. Relative Ranks](d115-506.-relative-ranks.md)
 * [D116 409. Longest Palindrome](d116-409.-longest-palindrome.md)
 * [D117 599. Minimum Index Sum of Two Lists](d117-599.-minimum-index-sum-of-two-lists.md)
+* [D118 350. Intersection of Two Arrays II](d118-350.-intersection-of-two-arrays-ii.md)
+* [D119 704. Binary Search](d119-704.-binary-search.md)
+* [D120 830. Positions of Large Groups](d120-830.-positions-of-large-groups.md)
 
