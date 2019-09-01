@@ -122,4 +122,5 @@
 * [D119 704. Binary Search](d119-704.-binary-search.md)
 * [D120 830. Positions of Large Groups](d120-830.-positions-of-large-groups.md)
 * [D121 21. Merge Two Sorted Lists](d121-21.-merge-two-sorted-lists.md)
+* [D122 1154. Day of the Year](d122-1154.-day-of-the-year.md)
 
