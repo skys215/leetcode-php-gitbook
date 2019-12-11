@@ -124,4 +124,5 @@
 * [D121 21. Merge Two Sorted Lists](d121-21.-merge-two-sorted-lists.md)
 * [D122 1154. Day of the Year](d122-1154.-day-of-the-year.md)
 * [D123 661. Image Smoother](d123-661.-image-smoother.md)
+* [D124 1175. Prime Arrangements](d124-1175.-prime-arrangements.md)
 
