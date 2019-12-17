@@ -132,4 +132,5 @@
 * [D123 661. Image Smoother](101-200/d123-661.-image-smoother.md)
 * [D124 1175. Prime Arrangements](101-200/d124-1175.-prime-arrangements.md)
 * [D125 107. Binary Tree Level Order Traversal II](101-200/d125-107.-binary-tree-level-order-traversal-ii.md)
+* [D126 717. 1-bit and 2-bit Characters](d126-717.-1-bit-and-2-bit-characters.md)
 
