@@ -15,7 +15,7 @@
 从y面后面看向x减少的方向时（从例图的右上看向左下时），前面的柱子挡住了后面的柱子，因此为3+4=7；  
 最后得4+6+7=17。
 
-![](.gitbook/assets/import.png)
+![](../.gitbook/assets/import.png)
 
 ## 思路
 
