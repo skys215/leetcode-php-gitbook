@@ -136,5 +136,5 @@
 * [D127 455. Assign Cookies](101-200/d127-455.-assign-cookies.md)
 * [D128 202. Happy Number](101-200/d128-202.-happy-number.md)
 * [D129 836. Rectangle Overlap](101-200/d129-836.-rectangle-overlap.md)
-* [D130 257. Binary Tree Paths](d130-257.-binary-tree-paths.md)
+* [D130 257. Binary Tree Paths](101-200/d130-257.-binary-tree-paths.md)
 
