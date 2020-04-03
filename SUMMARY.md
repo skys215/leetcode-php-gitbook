@@ -137,4 +137,5 @@
 * [D128 202. Happy Number](101-200/d128-202.-happy-number.md)
 * [D129 836. Rectangle Overlap](101-200/d129-836.-rectangle-overlap.md)
 * [D130 257. Binary Tree Paths](101-200/d130-257.-binary-tree-paths.md)
+* [D131 746. Min Cost Climbing Stairs](101-200/d131-746.-min-cost-climbing-stairs.md)
 
