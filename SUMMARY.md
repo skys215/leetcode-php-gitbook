@@ -140,4 +140,5 @@
 * [D131 746. Min Cost Climbing Stairs](101-200/d131-746.-min-cost-climbing-stairs.md)
 * [D132 7. Reverse Integer](101-200/d132-7.-reverse-integer.md)
 * [D133 9. Palindrome Number](101-200/d133-9.-palindrome-number.md)
+* [D134 14. Longest Common Prefix](101-200/d134-14.-longest-common-prefix.md)
 
