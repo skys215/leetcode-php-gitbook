@@ -139,8 +139,5 @@
 * [D130 257. Binary Tree Paths](101-200/d130-257.-binary-tree-paths.md)
 * [D131 746. Min Cost Climbing Stairs](101-200/d131-746.-min-cost-climbing-stairs.md)
 * [D132 7. Reverse Integer](101-200/d132-7.-reverse-integer.md)
-
----
-
-* [D133 9. Palindrome Number](d133-9.-palindrome-number.md)
+* [D133 9. Palindrome Number](101-200/d133-9.-palindrome-number.md)
 
