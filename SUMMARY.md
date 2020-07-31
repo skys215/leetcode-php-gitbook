@@ -143,4 +143,5 @@
 * [D134 14. Longest Common Prefix](101-200/d134-14.-longest-common-prefix.md)
 * [D135 20. Valid Parentheses](101-200/d135-20.-valid-parentheses.md)
 * [D136 26. Remove Duplicates from Sorted Array](101-200/d136-26.-remove-duplicates-from-sorted-array.md)
+* [D137 27. Remove Element](101-200/d137-27.-remove-element.md)
 
