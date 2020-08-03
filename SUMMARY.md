@@ -144,4 +144,10 @@
 * [D135 20. Valid Parentheses](101-200/d135-20.-valid-parentheses.md)
 * [D136 26. Remove Duplicates from Sorted Array](101-200/d136-26.-remove-duplicates-from-sorted-array.md)
 * [D137 27. Remove Element](101-200/d137-27.-remove-element.md)
+* [D138 35. Search Insert Position](101-200/d138-35.-search-insert-position.md)
+* [D139 38. Count and Say](101-200/d139-38.-count-and-say.md)
+
+---
+
+* [D](d.md)
 
