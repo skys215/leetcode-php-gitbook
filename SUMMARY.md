@@ -146,6 +146,8 @@
 * [D137 27. Remove Element](101-200/d137-27.-remove-element.md)
 * [D138 35. Search Insert Position](101-200/d138-35.-search-insert-position.md)
 * [D139 38. Count and Say](101-200/d139-38.-count-and-say.md)
+* [D140 58. Length of Last Word](101-200/d140-58.-length-of-last-word.md)
+* [D141 66. Plus One](101-200/d141-66.-plus-one.md)
 
 ---
 
