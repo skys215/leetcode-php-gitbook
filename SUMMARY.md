@@ -148,6 +148,7 @@
 * [D139 38. Count and Say](101-200/d139-38.-count-and-say.md)
 * [D140 58. Length of Last Word](101-200/d140-58.-length-of-last-word.md)
 * [D141 66. Plus One](101-200/d141-66.-plus-one.md)
+* [D142 67. Add Binary](101-200/d142-67.-add-binary.md)
 
 ---
 
