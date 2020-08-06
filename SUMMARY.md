@@ -149,9 +149,9 @@
 * [D140 58. Length of Last Word](101-200/d140-58.-length-of-last-word.md)
 * [D141 66. Plus One](101-200/d141-66.-plus-one.md)
 * [D142 67. Add Binary](101-200/d142-67.-add-binary.md)
+* [D143 69. Sqrt\(x\)](101-200/d143-69.-sqrt-x.md)
 
 ---
 
 * [（模板）](d.md)
-* [D143 69. Sqrt\(x\)](d143-69.-sqrt-x.md)
 
