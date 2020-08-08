@@ -150,6 +150,7 @@
 * [D141 66. Plus One](101-200/d141-66.-plus-one.md)
 * [D142 67. Add Binary](101-200/d142-67.-add-binary.md)
 * [D143 69. Sqrt\(x\)](101-200/d143-69.-sqrt-x.md)
+* [D144 70. Climbing Stairs](101-200/d144-70.-climbing-stairs.md)
 
 ---
 
