@@ -151,9 +151,9 @@
 * [D142 67. Add Binary](101-200/d142-67.-add-binary.md)
 * [D143 69. Sqrt\(x\)](101-200/d143-69.-sqrt-x.md)
 * [D144 70. Climbing Stairs](101-200/d144-70.-climbing-stairs.md)
+* [D145 83. Remove Duplicates from Sorted List](101-200/d145-83.-remove-duplicates-from-sorted-list.md)
 
 ---
 
 * [（模板）](d.md)
-* [D145 83. Remove Duplicates from Sorted List](d145-83.-remove-duplicates-from-sorted-list.md)
 
