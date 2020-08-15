@@ -152,9 +152,9 @@
 * [D143 69. Sqrt\(x\)](101-200/d143-69.-sqrt-x.md)
 * [D144 70. Climbing Stairs](101-200/d144-70.-climbing-stairs.md)
 * [D145 83. Remove Duplicates from Sorted List](101-200/d145-83.-remove-duplicates-from-sorted-list.md)
+* [D146 88. Merge Sorted Array](101-200/d146-88.-merge-sorted-array.md)
 
 ---
 
 * [（模板）](d.md)
-* [D146 88. Merge Sorted Array](d146-88.-merge-sorted-array.md)
 
