@@ -157,6 +157,7 @@
 * [D148 110. Balanced Binary Tree](101-200/d148-110.-balanced-binary-tree.md)
 * [D149 111. Minimum Depth of Binary Tree](101-200/d149-111.-minimum-depth-of-binary-tree.md)
 * [D150 112. Path Sum](101-200/d150-112.-path-sum.md)
+* [D151 118. Pascal's Triangle](101-200/d151-118.-pascals-triangle.md)
 
 ---
 
