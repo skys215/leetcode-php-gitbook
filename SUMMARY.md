@@ -160,6 +160,7 @@
 * [D151 118. Pascal's Triangle](101-200/d151-118.-pascals-triangle.md)
 * [D152 119. Pascal's Triangle II](101-200/d152-119.-pascals-triangle-ii.md)
 * [D153 121. Best Time to Buy and Sell Stock](101-200/d153-121.-best-time-to-buy-and-sell-stock.md)
+* [D154 125. Valid Palindrome](101-200/d154-125.-valid-palindrome.md)
 
 ---
 
