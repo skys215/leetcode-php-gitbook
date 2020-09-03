@@ -158,6 +158,8 @@
 * [D149 111. Minimum Depth of Binary Tree](101-200/d149-111.-minimum-depth-of-binary-tree.md)
 * [D150 112. Path Sum](101-200/d150-112.-path-sum.md)
 * [D151 118. Pascal's Triangle](101-200/d151-118.-pascals-triangle.md)
+* [D152 119. Pascal's Triangle II](101-200/d152-119.-pascals-triangle-ii.md)
+* [D153 121. Best Time to Buy and Sell Stock](101-200/d153-121.-best-time-to-buy-and-sell-stock.md)
 
 ---
 
