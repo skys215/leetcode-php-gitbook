@@ -163,9 +163,9 @@
 * [D154 125. Valid Palindrome](101-200/d154-125.-valid-palindrome.md)
 * [D156 155. Min Stack](101-200/d156-155.-min-stack.md)
 * [D157 168. Excel Sheet Column Title](101-200/d157-168.-excel-sheet-column-title.md)
+* [D158 176. Second Highest Salary](101-200/d158-176.-second-highest-salary.md)
 
 ---
 
 * [（模板）](d.md)
-* [D158 176. Second Highest Salary](d158-176.-second-highest-salary.md)
 
