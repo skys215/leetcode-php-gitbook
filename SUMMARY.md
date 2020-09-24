@@ -164,6 +164,8 @@
 * [D156 155. Min Stack](101-200/d156-155.-min-stack.md)
 * [D157 168. Excel Sheet Column Title](101-200/d157-168.-excel-sheet-column-title.md)
 * [D158 176. Second Highest Salary](101-200/d158-176.-second-highest-salary.md)
+* [D159 183. Customers Who Never Order](101-200/d159-183.-customers-who-never-order.md)
+* [D160 189. Rotate Array](101-200/d160-189.-rotate-array.md)
 
 ---
 
