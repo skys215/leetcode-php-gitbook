@@ -166,9 +166,9 @@
 * [D158 176. Second Highest Salary](101-200/d158-176.-second-highest-salary.md)
 * [D159 183. Customers Who Never Order](101-200/d159-183.-customers-who-never-order.md)
 * [D160 189. Rotate Array](101-200/d160-189.-rotate-array.md)
+* [D161 190. Reverse Bits](101-200/d161-190.-reverse-bits.md)
 
 ---
 
 * [（模板）](d.md)
-* [D161 190. Reverse Bits](d161-190.-reverse-bits.md)
 
