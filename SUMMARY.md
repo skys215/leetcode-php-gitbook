@@ -161,12 +161,13 @@
 * [D152 119. Pascal's Triangle II](101-200/d152-119.-pascals-triangle-ii.md)
 * [D153 121. Best Time to Buy and Sell Stock](101-200/d153-121.-best-time-to-buy-and-sell-stock.md)
 * [D154 125. Valid Palindrome](101-200/d154-125.-valid-palindrome.md)
-* [D156 155. Min Stack](101-200/d156-155.-min-stack.md)
-* [D157 168. Excel Sheet Column Title](101-200/d157-168.-excel-sheet-column-title.md)
-* [D158 176. Second Highest Salary](101-200/d158-176.-second-highest-salary.md)
-* [D159 183. Customers Who Never Order](101-200/d159-183.-customers-who-never-order.md)
-* [D160 189. Rotate Array](101-200/d160-189.-rotate-array.md)
-* [D161 190. Reverse Bits](101-200/d161-190.-reverse-bits.md)
+* [D155 155. Min Stack](101-200/d156-155.-min-stack.md)
+* [D156 168. Excel Sheet Column Title](101-200/d157-168.-excel-sheet-column-title.md)
+* [D157 176. Second Highest Salary](101-200/d158-176.-second-highest-salary.md)
+* [D158 183. Customers Who Never Order](101-200/d159-183.-customers-who-never-order.md)
+* [D159 189. Rotate Array](101-200/d160-189.-rotate-array.md)
+* [D160 190. Reverse Bits](101-200/d161-190.-reverse-bits.md)
+* [D161 191. Number of 1 Bits](101-200/d161-191.-number-of-1-bits.md)
 
 ---
 
