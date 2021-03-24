@@ -172,9 +172,9 @@
 * [D163 197. Rising Temperature](101-200/d163-197.-rising-temperature.md)
 * [D164 203. Remove Linked List Elements](101-200/d164-203.-remove-linked-list-elements.md)
 * [D165 205. Isomorphic Strings](101-200/d165-205.-isomorphic-strings.md)
+* [D166 219. Contains Duplicate II](101-200/d166-219.-contains-duplicate-ii.md)
 
 ---
 
 * [（模板）](d.md)
-* [D166 219. Contains Duplicate II](d166-219.-contains-duplicate-ii.md)
 
