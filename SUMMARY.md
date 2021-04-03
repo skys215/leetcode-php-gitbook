@@ -174,6 +174,8 @@
 * [D165 205. Isomorphic Strings](101-200/d165-205.-isomorphic-strings.md)
 * [D166 219. Contains Duplicate II](101-200/d166-219.-contains-duplicate-ii.md)
 * [D167 228. Summary Ranges](101-200/d167-228.-summary-ranges.md)
+* [D168 231. Power of Two](101-200/d168-231.-power-of-two.md)
+* [D169 234. Palindrome Linked List](101-200/d169-234.-palindrome-linked-list.md)
 
 ---
 
