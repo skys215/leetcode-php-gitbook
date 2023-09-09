@@ -149,7 +149,7 @@
 * [D140 58. Length of Last Word](101-200/d140-58.-length-of-last-word.md)
 * [D141 66. Plus One](101-200/d141-66.-plus-one.md)
 * [D142 67. Add Binary](101-200/d142-67.-add-binary.md)
-* [D143 69. Sqrt\(x\)](101-200/d143-69.-sqrt-x.md)
+* [D143 69. Sqrt(x)](101-200/d143-69.-sqrt-x.md)
 * [D144 70. Climbing Stairs](101-200/d144-70.-climbing-stairs.md)
 * [D145 83. Remove Duplicates from Sorted List](101-200/d145-83.-remove-duplicates-from-sorted-list.md)
 * [D146 88. Merge Sorted Array](101-200/d146-88.-merge-sorted-array.md)
@@ -176,8 +176,12 @@
 * [D167 228. Summary Ranges](101-200/d167-228.-summary-ranges.md)
 * [D168 231. Power of Two](101-200/d168-231.-power-of-two.md)
 * [D169 234. Palindrome Linked List](101-200/d169-234.-palindrome-linked-list.md)
+* [D170 235. Lowest Common Ancestor of a Binary Search Tree](101-200/d170-235.-lowest-common-ancestor-of-a-binary-search-tree.md)
+* [D171 263. Ugly Number](101-200/d171-263.-ugly-number.md)
+* [D172 278. First Bad Version](101-200/d172-278.-first-bad-version.md)
+* [D173 290. Word Pattern](101-200/d173-290.-word-pattern.md)
+* [D171 596. Classes More Than 5 Students](101-200/d171-596.-classes-more-than-5-students.md)
 
----
+***
 
 * [（模板）](d.md)
-
